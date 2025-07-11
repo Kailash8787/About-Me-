@@ -9,9 +9,7 @@ I’m **Kailash Pantha** — a passionate creative professional skilled in Graph
 
 
  🌱 Future Learning Goals
-
 I’m committed to becoming a MERN Stack Developer (MongoDB, Express.js, React.js, Node.js) by:
-
 * Completing structured online courses & certifications
 * Building real-world projects
 * Collaborating with developers & open-source communities
