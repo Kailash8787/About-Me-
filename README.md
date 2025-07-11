@@ -1,24 +1,26 @@
-#ABOUT ME
 
-Personal Information
+### 👋 About Me
 
-I am Kailash Pantha, a passionate and dedicated professional in Graphic Design, Video Editing, and Photography.
--I love traveling and photography.
--Certified UI/UX Designer.
--Interested in exploring nature.
--Learning additional graphic design skills.
-I am passionate about producing documentary videos that capture the beauty of nature and the richness of cultural lifestyles.
+I’m **Kailash Pantha** — a passionate creative professional skilled in Graphic Design, Video Editing, and Photography.
 
-Contact me :
-Email : panthakailash0806@gmail.com
-instagram : https://www.instagram.com/kailashp_1/
+* 📸 Nature explorer & documentary enthusiast
+* 🎓 Certified UI/UX Designer
+* 🎥 Passionate about producing nature & culture-based documentaries
 
-Future Learning Plan
-  I am committed to enhancing my technical skills by mastering the MERN Stack (MongoDB, Express.js, React.js, and Node.js). My plan includes:
-          -Completing structured online courses and certifications to build a strong foundation in each component.
-          -Working on real-world projects to apply my knowledge and develop practical experience.
-          -Collaborating with other developers and contributing to open-source projects to expand my learning and network.
-          -Staying updated with the latest industry trends and best practices in full-stack development.
-  Through this plan, I aim to become a proficient MERN Stack Developer and integrate these skills into my creative and documentary projects.
-  
-  For additional information, feel free to contact me. I look forward to collaborating on projects.
+
+ 🌱 Future Learning Goals
+
+I’m committed to becoming a MERN Stack Developer (MongoDB, Express.js, React.js, Node.js) by:
+
+* Completing structured online courses & certifications
+* Building real-world projects
+* Collaborating with developers & open-source communities
+* Staying up-to-date with modern development trends
+
+I aim to merge my tech skills with creativity to bring meaningful visual stories to life.
+ 📬 Contact Me
+
+📧 Email: [panthakailash0806@gmail.com](mailto:panthakailash0806@gmail.com)
+📸 Instagram: [@kailashp\_1](https://www.instagram.com/kailashp_1/)
+
+
